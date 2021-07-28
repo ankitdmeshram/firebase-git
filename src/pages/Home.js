@@ -38,7 +38,7 @@ const Home = () => {
 
     if(!context.user ?.uid) 
     {
-        return <Redirect to="/signin" />
+        return <Redirect to="/firebase-git/signin" />
     }
 
     return (

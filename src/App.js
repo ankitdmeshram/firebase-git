@@ -43,9 +43,9 @@ const App = () => {
       <UserContext.Provider value={{user, setUser}}>
         <Header />
         <Switch>
-          <Route exact path="/" component={Home} />
-          <Route exact path="/signin" component={Signin} />
-          <Route exact path="/signup" component={Signup} />
+          <Route exact path="/firebase-git/" component={Home} />
+          <Route exact path="/firebase-git/signin" component={Signin} />
+          <Route exact path="/firebase-git/signup" component={Signup} />
           <Route exact path="*" component={PageNotFound} />
         </Switch>
         <Footer />
