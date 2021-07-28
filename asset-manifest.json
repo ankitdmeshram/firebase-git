@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/firebase-git/static/css/main.a617e044.chunk.css",
+    "main.js": "/firebase-git/static/js/main.af01913b.chunk.js",
+    "main.js.map": "/firebase-git/static/js/main.af01913b.chunk.js.map",
+    "runtime-main.js": "/firebase-git/static/js/runtime-main.25e4a9f7.js",
+    "runtime-main.js.map": "/firebase-git/static/js/runtime-main.25e4a9f7.js.map",
+    "static/css/2.9bcbd9c1.chunk.css": "/firebase-git/static/css/2.9bcbd9c1.chunk.css",
+    "static/js/2.99d304ac.chunk.js": "/firebase-git/static/js/2.99d304ac.chunk.js",
+    "static/js/2.99d304ac.chunk.js.map": "/firebase-git/static/js/2.99d304ac.chunk.js.map",
+    "static/js/3.76aed0ad.chunk.js": "/firebase-git/static/js/3.76aed0ad.chunk.js",
+    "static/js/3.76aed0ad.chunk.js.map": "/firebase-git/static/js/3.76aed0ad.chunk.js.map",
+    "index.html": "/firebase-git/index.html",
+    "static/css/2.9bcbd9c1.chunk.css.map": "/firebase-git/static/css/2.9bcbd9c1.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/firebase-git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.99d304ac.chunk.js.LICENSE.txt": "/firebase-git/static/js/2.99d304ac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/firebase-git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25e4a9f7.js",
+    "static/css/2.9bcbd9c1.chunk.css",
+    "static/js/2.99d304ac.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.af01913b.chunk.js"
+  ]
+}
