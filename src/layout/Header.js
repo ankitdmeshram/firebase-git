@@ -32,7 +32,7 @@ const Header = () => {
             expand="md"
         >
             <NavbarBrand>
-                <Link to="/" className="text-white">
+                <Link to="/firebase-git/" className="text-white">
                     GitFire App</Link>
             </NavbarBrand>
 
@@ -53,10 +53,10 @@ const Header = () => {
                     ) : (
                         <>
                             <NavItem>
-                                <NavLink tag={Link} to="/signup" className="text-white">Signup</NavLink>
+                                <NavLink tag={Link} to="/firebase-git//signup" className="text-white">Signup</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink tag={Link} to="/signin" className="text-white">Signin</NavLink>
+                                <NavLink tag={Link} to="/firebase-git//signin" className="text-white">Signin</NavLink>
                             </NavItem> 
                         </>
                     )
