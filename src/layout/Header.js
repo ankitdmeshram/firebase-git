@@ -53,10 +53,10 @@ const Header = () => {
                     ) : (
                         <>
                             <NavItem>
-                                <NavLink tag={Link} to="/firebase-git//signup" className="text-white">Signup</NavLink>
+                                <NavLink tag={Link} to="/firebase-git/signup" className="text-white">Signup</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink tag={Link} to="/firebase-git//signin" className="text-white">Signin</NavLink>
+                                <NavLink tag={Link} to="/firebase-git/signin" className="text-white">Signin</NavLink>
                             </NavItem> 
                         </>
                     )
