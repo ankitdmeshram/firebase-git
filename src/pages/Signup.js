@@ -50,7 +50,7 @@ const Signup =() => {
     }
 
     if(context.user?.uid) {
-        return <Redirect to="/" />
+        return <Redirect to="/firebase-git/" />
     } else {
         return (
             <Container className='text-center'>
